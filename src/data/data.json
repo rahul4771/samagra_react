@@ -1,0 +1,169 @@
+{
+  "Header": {
+    "title": "We are a Leading software consultancy",
+    "paragraph": "Leading software consulting and digital marketing agency based in COCHIN"
+  },
+  "About": {
+    "paragraph": "Samagra Digital Hub is a software consulting and digital marketing agency based in COCHIN. In today's digital business world, you need a partner who can help you take advantage of marketing opportunities across a variety of channels in real-time. Samagra Digital Hub combines a data-driven approach with knowledge gained from years in digital marketing to deliver outstanding results to our clients.",
+    "Why": [
+      "Stability - Over 10 years of experience.",
+      "Passion for creativity spans our entire service range",
+      "Develop in all leading tools and languages.",
+      "Complete Project Management from design to delivery."
+    ],
+    "Why2": [
+      "Competitive Prices",
+      "We continually update our knowledge!",
+      "We Quantify Our Success",
+      "We Promote Video Marketing"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Web and Web App Development",
+      "text": "Web development involves building robust applications that exchange and process information over the Internet. Be it static website, collaborative content management system, or enterprise eCommerce platform."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Search Engine Optimization",
+      "text": "Search engine optimization services at Samagra Tech aim at funneling targeted organic traffic to your website with proven SEO techniques. Our team of SEO professionals work through the various stages of SEO."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Social Media",
+      "text": "The power of social media to amplify business cannot be underestimated. Utilizing online social channels to establish trust and build a strong relationship with your target audience will work wonders for your business."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Pay-Per-Click",
+      "text": "Pay-per-click is an internet advertising model used to drive traffic to websites, in which an advertiser pays a publisher when the ad is clicked. Pay-per-click is usually associated with first-tier search engines."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Digital Content & Video",
+      "text": "Nowadays, many people watch a wide range of videos on social media platforms like Facebook, Instagram, and Youtube. For this demand, a new marketing landscape has arisen that marketers named video content marketing."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Google Ads",
+      "text": "Promote your products on Google Shopping, Google Search, and partner websites targeting online shoppers.  It can place ads in the results of search engines like Google Search, mobile apps, videos, and on non-search websites."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "Highly recommend Samagra Tech As they always deliver above our expectations. Thanks for the frequent supports and all the best for the future endeavors.",
+      "name": "Praveen V"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Samagra Tech has been supporting our business for the past 9 months in both the creation and implementation of new and tailored software.",
+      "name": "Abhijith"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "I am very impressed with the organization a Page Traffic. Unlike other SEO companies, with you I know exactly what work is being done.",
+      "name": " Aswin V"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4th floor-287, Main Avenue, Panampilly Nagar, Kochi, Kerala, India",
+    "phone": "+91 790 777 1559",
+    "email": "info@samagratech.co.in",
+    "facebook": "https://www.facebook.com/samagracochin/",
+    "twitter": "https://www.twitter.com",
+    "youtube": "https://www.youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Digital marketing services",
+      "text": "We offer, along with information and pricing for a custom digital marketing solution based on your needs."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Website, Web App Development",
+      "text": "We offer, Web development involves building robust applications that exchange and process information over the Internet."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "SEO",
+      "text": "Customers use search engines to find the best provider and we help you show up in those customer searches."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Google Ads",
+      "text": "Promote your products on Google Shopping, Google Search, and partner websites targeting online shoppers."
+    }
+  ]
+}
